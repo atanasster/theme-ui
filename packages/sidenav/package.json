@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@emotion/core": "^10.0.14",
-    "@mdx-js/react": "^1.0.21",
+    "@mdx-js/react": "^1.6.19",
     "@types/mdx-js__react": "^1.5.1",
     "deepmerge": "^4.0.0",
     "theme-ui": "^0.4.0-rc.5"
