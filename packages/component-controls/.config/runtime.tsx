@@ -6,7 +6,7 @@ import { defaultLinks } from "@component-controls/app";
 
 const config: RunOnlyConfiguration =  {
   title: `theme-ui components`,
-  description: `Collection of theme-ui and external components.`,
+  description: `theme-ui components.`,
   author: 'component-controls',
   logo: 'https://raw.githubusercontent.com/system-ui/theme-ui/HEAD/packages/docs/static/logo.png',
   components: {
