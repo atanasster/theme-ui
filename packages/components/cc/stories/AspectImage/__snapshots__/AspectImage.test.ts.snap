@@ -15,6 +15,7 @@ exports[`AspectImage overview 0 snapshot 1`] = `
         class="css-ojfau8"
       >
         <img
+          alt="aspect image"
           class="css-1lckzle"
           src="https://picsum.photos/seed/picsum/128/128"
         />
@@ -39,6 +40,7 @@ exports[`AspectImage overview 1 snapshot 1`] = `
         class="css-ojfau8"
       >
         <img
+          alt="aspect image"
           class="css-1lckzle"
           src="https://picsum.photos/seed/picsum/128/128"
         />
@@ -63,6 +65,7 @@ exports[`AspectImage overview 2 snapshot 1`] = `
         class="css-ojfau8"
       >
         <img
+          alt="aspect image"
           class="css-1lckzle"
           src="https://picsum.photos/seed/picsum/128/128"
         />
@@ -87,6 +90,7 @@ exports[`AspectImage overview 3 snapshot 1`] = `
         class="css-ojfau8"
       >
         <img
+          alt="aspect image"
           class="css-1lckzle"
           src="https://picsum.photos/seed/picsum/128/128"
         />
@@ -111,6 +115,7 @@ exports[`AspectImage overview 4 snapshot 1`] = `
         class="css-ojfau8"
       >
         <img
+          alt="aspect image"
           class="css-1lckzle"
           src="https://picsum.photos/seed/picsum/128/128"
         />

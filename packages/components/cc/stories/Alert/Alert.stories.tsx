@@ -1,6 +1,6 @@
 import React from 'react';
 import { Document, Example } from '@component-controls/core';
-import { Alert, Close, Flex, Text } from '../../../src/index';
+import { Alert, Close, Flex, Text } from '../../../src';
 
 export default {
   title: 'components/Alert',

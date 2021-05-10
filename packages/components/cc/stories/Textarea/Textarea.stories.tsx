@@ -1,15 +1,18 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { Textarea, TextareaProps } from '../../../../components';
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { TextareaProps } from '../../../index'
+import { Textarea } from '../../../src'
 
 export default {
   title: 'components/Textarea',
   component: Textarea,
   category: 'Input',
-} as Document;
+} as Document
 
 export const overview: Example<TextareaProps> = ({ rows }) => (
-  <Textarea rows={rows} defaultValue={`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  <Textarea
+    rows={rows}
+    defaultValue={`Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Fusce in metus velit.
 In purus neque, mattis non vehicula a, facilisis a leo.
 Mauris varius turpis quis tortor cursus convallis.
@@ -21,9 +24,9 @@ Sed vitae orci aliquam, elementum leo vestibulum, mollis arcu.
 Pellentesque dignissim mattis leo id eleifend.
 Nullam egestas purus vitae nisl vestibulum scelerisque.
 Donec porttitor velit eu sollicitudin scelerisque.
-Suspendisse quis aliquet lacus, nec lacinia tellus.`} 
-/>
-);
+Suspendisse quis aliquet lacus, nec lacinia tellus.`}
+  />
+)
 
 overview.controls = {
   rows: {
@@ -33,5 +36,4 @@ overview.controls = {
     max: 10,
     step: 1,
   },
-
-};
+}

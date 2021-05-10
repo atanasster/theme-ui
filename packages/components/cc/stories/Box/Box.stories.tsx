@@ -1,7 +1,7 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { ThemeUICSSObject } from '@theme-ui/css/src';
-import { Box } from '../../../../components';
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { ThemeUICSSObject } from '@theme-ui/css/src'
+import { Box } from '../../../src'
 
 export default {
   title: 'components/Box',
@@ -9,11 +9,11 @@ export default {
   description:
     'Use the `Box` component as a layout primitive to add margin, padding, and colors to content.',
   category: 'Containers',
-} as Document;
+} as Document
 
 export const overview: Example<ThemeUICSSObject> = ({ color, bg, p }) => (
   <Box sx={{ color, background: bg, p }}>some text</Box>
-);
+)
 
 const colors = [
   'text',
@@ -23,9 +23,9 @@ const colors = [
   'highlight',
   'muted',
   'gray',
-];
+]
 overview.controls = {
   p: { type: ControlTypes.NUMBER, value: 4 },
   color: { type: ControlTypes.OPTIONS, value: 'text', options: colors },
   bg: { type: ControlTypes.OPTIONS, value: 'background', options: colors },
-};
+}

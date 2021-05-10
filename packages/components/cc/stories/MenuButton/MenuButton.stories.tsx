@@ -1,16 +1,17 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { MenuButton, MenuButtonProps } from '../../../../components';
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { MenuButtonProps } from '../../../index'
+import { MenuButton } from '../../../src'
 
 export default {
   title: 'components/MenuButton',
   component: MenuButton,
   category: 'Input',
-} as Document;
+} as Document
 
 export const overview: Example<MenuButtonProps> = ({ variant }) => (
   <MenuButton variant={variant} />
-);
+)
 
 overview.controls = {
   variant: {
@@ -18,4 +19,4 @@ overview.controls = {
     options: ['primary', 'secondary'],
     value: 'primary',
   },
-};
+}

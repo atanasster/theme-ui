@@ -1,17 +1,20 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { ThemeUICSSProperties } from '@theme-ui/css/src';
-import { Text } from '../../../../components';
-
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { ThemeUICSSProperties } from '@theme-ui/css/src'
+import { Text } from '../../../src'
 
 export default {
   title: 'components/Text',
   component: Text,
-  description: 'The Text component uses `theme.text.default` as its default variant style.',
+  description:
+    'The Text component uses `theme.text.default` as its default variant style.',
   category: 'Input',
-} as Document;
+} as Document
 
-export const overview: Example<ThemeUICSSProperties> = ({ fontWeight, fontSize }) => (
+export const overview: Example<ThemeUICSSProperties> = ({
+  fontWeight,
+  fontSize,
+}) => (
   <Text
     sx={{
       fontSize,
@@ -19,7 +22,7 @@ export const overview: Example<ThemeUICSSProperties> = ({ fontWeight, fontSize }
     }}>
     Hello
   </Text>
-);
+)
 
 overview.controls = {
   fontWeight: {
@@ -34,5 +37,4 @@ overview.controls = {
     max: 5,
     step: 1,
   },
-
-};
+}

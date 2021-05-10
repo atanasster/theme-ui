@@ -1,21 +1,22 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { Heading, HeadingProps } from '../../../../components';
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { HeadingProps } from '../../../index'
+import { Heading } from '../../../src'
 
 export default {
   title: 'components/Heading',
   component: Heading,
   category: 'Typography',
-} as Document;
+} as Document
 
 export const overview: Example<HeadingProps> = ({ as }) => (
   <Heading as={as}>heading text</Heading>
-);
+)
 
 overview.controls = {
   as: {
     type: ControlTypes.OPTIONS,
-    options: ['h1', 'h2', 'h3', 'h4', 'h5' ],
+    options: ['h1', 'h2', 'h3', 'h4', 'h5'],
     value: 'h1',
   },
-};
+}

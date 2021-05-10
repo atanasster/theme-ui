@@ -1,11 +1,11 @@
-import React from 'react';
-import { Document, Example } from '@component-controls/core';
-import { Close } from '../../../../components';
+import React from 'react'
+import { Document, Example } from '@component-controls/core'
+import { Close } from '../../../src'
 
 export default {
   title: 'components/Close',
   component: Close,
   category: 'Display',
-} as Document;
+} as Document
 
-export const overview: Example = () => <Close />;
+export const overview: Example = () => <Close />

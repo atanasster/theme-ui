@@ -1,18 +1,20 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { Embed, EmbedProps } from '../../../../components';
-
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { EmbedProps } from '../../../index'
+import { Embed } from '../../../src'
 
 export default {
   title: 'components/Embed',
   component: Embed,
   category: 'Media',
-} as Document;
+} as Document
 
-export const overview: Example<EmbedProps> = ({ src }) => (
-  <Embed src={src} />
-);
+export const overview: Example<EmbedProps> = ({ src }) => <Embed src={src} />
 
 overview.controls = {
-  src: { type: ControlTypes.TEXT, value: 'https://www.youtube.com/embed/GNCd_ERZvZM', data: false }
+  src: {
+    type: ControlTypes.TEXT,
+    value: 'https://www.youtube.com/embed/GNCd_ERZvZM',
+    data: false,
+  },
 }

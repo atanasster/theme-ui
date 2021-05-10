@@ -1,6 +1,7 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { Spinner, SpinnerProps } from '../../../../components';
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { SpinnerProps } from '../../../index'
+import { Spinner } from '../../../src'
 
 export default {
   title: 'components/Spinner',
@@ -12,11 +13,13 @@ export default {
   Spinner variants can be defined anywhere in the \`theme\` object.
   `,
   category: 'Display',
-} as Document;
+} as Document
 
-export const overview: Example<SpinnerProps> = ({ size, strokeWidth }) => <Spinner size={size} strokeWidth={strokeWidth} />;
+export const overview: Example<SpinnerProps> = ({ size, strokeWidth }) => (
+  <Spinner size={size} strokeWidth={strokeWidth} />
+)
 
 overview.controls = {
   size: { type: ControlTypes.NUMBER, value: 48 },
   strokeWidth: { type: ControlTypes.NUMBER, value: 4 },
-};
+}

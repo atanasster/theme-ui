@@ -1,19 +1,19 @@
-import React from 'react';
-import { Document, Example, ControlTypes } from '@component-controls/core';
-import { Radio, RadioProps, Label } from '../../../../components';
-
+import React from 'react'
+import { Document, Example, ControlTypes } from '@component-controls/core'
+import { RadioProps } from '../../../index'
+import { Radio, Label } from '../../../src'
 
 export default {
   title: 'components/Radio',
   component: Radio,
   category: 'Input',
-} as Document;
+} as Document
 
 export const overview: Example<RadioProps> = ({ checked }) => (
   <>
     <Label>
       <Radio
-        name='dark-mode'
+        name="dark-mode"
         value={checked ? 'true' : 'false'}
         defaultChecked={checked}
       />
@@ -21,15 +21,15 @@ export const overview: Example<RadioProps> = ({ checked }) => (
     </Label>
     <Label>
       <Radio
-        name='dark-mode'
+        name="dark-mode"
         value={checked ? 'false' : 'true'}
         defaultChecked={!checked}
       />
       Light Mode
     </Label>
-  </>  
-);
+  </>
+)
 
 overview.controls = {
   checked: { type: ControlTypes.BOOLEAN, value: true },
-};
+}
