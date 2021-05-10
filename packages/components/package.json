@@ -1,14 +1,11 @@
 {
   "name": "@theme-ui/components",
-  "version": "0.6.0-alpha.6",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "version": "0.8.2",
+  "main": "dist/theme-ui-components.cjs.js",
+  "module": "dist/theme-ui-components.esm.js",
   "types": "index.d.ts",
   "sideEffects": false,
   "scripts": {
-    "prepare": "microbundle --no-compress --jsx React.createElement",
-    "watch": "microbundle watch --no-compress --jsx React.createElement",
-    "typecheck": "tsc --noEmit",
     "build": "gatsby build",
     "start": "gatsby develop",
     "test:create": "cc-cli -g doc -f ts -w -d 5"
@@ -19,12 +16,17 @@
     "@styled-system/color": "^5.1.2",
     "@styled-system/should-forward-prop": "^5.1.2",
     "@styled-system/space": "^5.1.2",
-    "@theme-ui/css": "0.6.0-alpha.6",
+    "@theme-ui/css": "0.8.2",
     "@types/styled-system": "^5.1.10"
   },
   "peerDependencies": {
     "react": "^16.14.0 || ^17.0.0"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Brent Jackson <jxnblk@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@component-controls/addon-catalog": "^3.11.3",
     "@component-controls/addon-stats": "^3.11.3",
@@ -34,11 +36,5 @@
     "core-js": "^3.12.1",
     "gatsby": "^3.4.2",
     "react": "^17.0.1"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "author": "Brent Jackson <jxnblk@gmail.com>",
-  "license": "MIT",
-  "gitHead": "87e9ebb0cc66d8a5e1fcde7bb60f2077266aa437"
+  }
 }

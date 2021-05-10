@@ -67,6 +67,8 @@ const theme = {
       fontSize: 3,
     },
     block: {
+      my: 0,
+      maxWidth: [0, '48em'],
       variant: 'default',
       textAlign: 'justify',
       textAlignLast: 'start',
@@ -217,6 +219,7 @@ describe('Grid', () => {
     const json = renderJSON(
       <ThemeProvider theme={theme}>
         <Grid />
+        <Grid width="1fr" repeat="fit" />
       </ThemeProvider>
     )
     expect(json).toMatchSnapshot()
@@ -330,6 +333,12 @@ describe('Paragraph', () => {
         }}
       />
     )
+    expect(json).toHaveStyleRule('margin', margin)
+  })
+
+  test('renders with space prop overrides', () => {
+    const margin = '8px'
+    const json = renderJSON(<Paragraph m={margin} />)
     expect(json).toHaveStyleRule('margin', margin)
   })
 })
@@ -480,7 +489,7 @@ describe('Donut', () => {
   test('renders', () => {
     const json = renderJSON(
       <ThemeProvider theme={theme}>
-        <Donut />
+        <Donut title="Donut" />
       </ThemeProvider>
     )
     expect(json).toMatchSnapshot()
