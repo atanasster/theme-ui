@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-1y16e88"
+    height="100"
+    src="https://picsum.photos/seed/picsum/128/128"
+    width="100"
+  />
+</DocumentFragment>
+`;
+
+exports[`Avatar overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-1y16e88"
+    height="100"
+    src="https://picsum.photos/seed/picsum/128/128"
+    width="100"
+  />
+</DocumentFragment>
+`;
+
+exports[`Avatar overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-1y16e88"
+    height="230"
+    src="https://picsum.photos/seed/picsum/128/128"
+    width="230"
+  />
+</DocumentFragment>
+`;
+
+exports[`Avatar overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-1y16e88"
+    height="230"
+    src="https://picsum.photos/seed/picsum/128/128"
+    width="230"
+  />
+</DocumentFragment>
+`;
+
+exports[`Avatar overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-1y16e88"
+    height="210"
+    src="https://picsum.photos/seed/picsum/128/128"
+    width="210"
+  />
+</DocumentFragment>
+`;

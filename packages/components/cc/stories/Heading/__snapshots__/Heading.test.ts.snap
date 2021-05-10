@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <h5
+    class="css-1wf7gym"
+  >
+    heading text
+  </h5>
+</DocumentFragment>
+`;
+
+exports[`Heading overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="css-1wf7gym"
+  >
+    heading text
+  </h1>
+</DocumentFragment>
+`;
+
+exports[`Heading overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="css-1wf7gym"
+  >
+    heading text
+  </h1>
+</DocumentFragment>
+`;
+
+exports[`Heading overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <h2
+    class="css-1wf7gym"
+  >
+    heading text
+  </h2>
+</DocumentFragment>
+`;
+
+exports[`Heading overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="css-1wf7gym"
+  >
+    heading text
+  </h1>
+</DocumentFragment>
+`;

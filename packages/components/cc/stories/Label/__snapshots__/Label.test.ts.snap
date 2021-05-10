@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Label overview snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-knfhfe"
+  >
+    Form label
+  </label>
+</DocumentFragment>
+`;

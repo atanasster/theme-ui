@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Slider overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="css-mo64tj"
+    type="range"
+    value="38"
+  />
+</DocumentFragment>
+`;
+
+exports[`Slider overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="css-mo64tj"
+    type="range"
+    value="22"
+  />
+</DocumentFragment>
+`;
+
+exports[`Slider overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="css-mo64tj"
+    type="range"
+    value="13"
+  />
+</DocumentFragment>
+`;
+
+exports[`Slider overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="css-mo64tj"
+    type="range"
+    value="38"
+  />
+</DocumentFragment>
+`;
+
+exports[`Slider overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="css-mo64tj"
+    type="range"
+    value="38"
+  />
+</DocumentFragment>
+`;

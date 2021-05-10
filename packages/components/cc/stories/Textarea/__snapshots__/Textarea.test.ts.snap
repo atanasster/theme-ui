@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Textarea overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <textarea
+    class="css-iyqgnx"
+    rows="3"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce in metus velit.
+In purus neque, mattis non vehicula a, facilisis a leo.
+Mauris varius turpis quis tortor cursus convallis.
+Duis sapien dui, consequat sed vestibulum et, posuere sed mauris.
+Duis pretium eu velit ac fermentum.
+Vestibulum et lacus eu erat interdum lobortis.
+Proin placerat leo orci, ut placerat magna egestas sit amet.
+Sed vitae orci aliquam, elementum leo vestibulum, mollis arcu.
+Pellentesque dignissim mattis leo id eleifend.
+Nullam egestas purus vitae nisl vestibulum scelerisque.
+Donec porttitor velit eu sollicitudin scelerisque.
+Suspendisse quis aliquet lacus, nec lacinia tellus.
+  </textarea>
+</DocumentFragment>
+`;
+
+exports[`Textarea overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <textarea
+    class="css-iyqgnx"
+    rows="5"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce in metus velit.
+In purus neque, mattis non vehicula a, facilisis a leo.
+Mauris varius turpis quis tortor cursus convallis.
+Duis sapien dui, consequat sed vestibulum et, posuere sed mauris.
+Duis pretium eu velit ac fermentum.
+Vestibulum et lacus eu erat interdum lobortis.
+Proin placerat leo orci, ut placerat magna egestas sit amet.
+Sed vitae orci aliquam, elementum leo vestibulum, mollis arcu.
+Pellentesque dignissim mattis leo id eleifend.
+Nullam egestas purus vitae nisl vestibulum scelerisque.
+Donec porttitor velit eu sollicitudin scelerisque.
+Suspendisse quis aliquet lacus, nec lacinia tellus.
+  </textarea>
+</DocumentFragment>
+`;
+
+exports[`Textarea overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <textarea
+    class="css-iyqgnx"
+    rows="3"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce in metus velit.
+In purus neque, mattis non vehicula a, facilisis a leo.
+Mauris varius turpis quis tortor cursus convallis.
+Duis sapien dui, consequat sed vestibulum et, posuere sed mauris.
+Duis pretium eu velit ac fermentum.
+Vestibulum et lacus eu erat interdum lobortis.
+Proin placerat leo orci, ut placerat magna egestas sit amet.
+Sed vitae orci aliquam, elementum leo vestibulum, mollis arcu.
+Pellentesque dignissim mattis leo id eleifend.
+Nullam egestas purus vitae nisl vestibulum scelerisque.
+Donec porttitor velit eu sollicitudin scelerisque.
+Suspendisse quis aliquet lacus, nec lacinia tellus.
+  </textarea>
+</DocumentFragment>
+`;
+
+exports[`Textarea overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <textarea
+    class="css-iyqgnx"
+    rows="8"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce in metus velit.
+In purus neque, mattis non vehicula a, facilisis a leo.
+Mauris varius turpis quis tortor cursus convallis.
+Duis sapien dui, consequat sed vestibulum et, posuere sed mauris.
+Duis pretium eu velit ac fermentum.
+Vestibulum et lacus eu erat interdum lobortis.
+Proin placerat leo orci, ut placerat magna egestas sit amet.
+Sed vitae orci aliquam, elementum leo vestibulum, mollis arcu.
+Pellentesque dignissim mattis leo id eleifend.
+Nullam egestas purus vitae nisl vestibulum scelerisque.
+Donec porttitor velit eu sollicitudin scelerisque.
+Suspendisse quis aliquet lacus, nec lacinia tellus.
+  </textarea>
+</DocumentFragment>
+`;
+
+exports[`Textarea overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <textarea
+    class="css-iyqgnx"
+    rows="8"
+  >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce in metus velit.
+In purus neque, mattis non vehicula a, facilisis a leo.
+Mauris varius turpis quis tortor cursus convallis.
+Duis sapien dui, consequat sed vestibulum et, posuere sed mauris.
+Duis pretium eu velit ac fermentum.
+Vestibulum et lacus eu erat interdum lobortis.
+Proin placerat leo orci, ut placerat magna egestas sit amet.
+Sed vitae orci aliquam, elementum leo vestibulum, mollis arcu.
+Pellentesque dignissim mattis leo id eleifend.
+Nullam egestas purus vitae nisl vestibulum scelerisque.
+Donec porttitor velit eu sollicitudin scelerisque.
+Suspendisse quis aliquet lacus, nec lacinia tellus.
+  </textarea>
+</DocumentFragment>
+`;

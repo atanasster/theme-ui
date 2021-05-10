@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Embed overview snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-iao9n7"
+  >
+    <iframe
+      allowfullscreen=""
+      class="css-1jf66la"
+      frameborder="0"
+      height="315"
+      src="https://www.youtube.com/embed/GNCd_ERZvZM"
+      width="560"
+    />
+  </div>
+</DocumentFragment>
+`;

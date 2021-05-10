@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Donut overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    aria-valuemax="1"
+    aria-valuemin="1"
+    aria-valuenow="0"
+    class="css-1tx9y9r"
+    fill="none"
+    height="218"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="1"
+    viewBox="0 0 32 32"
+    width="218"
+  >
+    <title>
+      Mrs. Jamey Pfeffer
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="15"
+    />
+    <circle
+      cx="16"
+      cy="16"
+      r="15"
+      stroke-dasharray="94.24777960769379"
+      stroke-dashoffset="Infinity"
+      transform="rotate(-90 16 16)"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`Donut overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    aria-valuemax="1"
+    aria-valuemin="0"
+    aria-valuenow="1"
+    class="css-1tx9y9r"
+    fill="none"
+    height="103"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="3"
+    viewBox="0 0 32 32"
+    width="103"
+  >
+    <title>
+      Bobby Schinner
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="13"
+    />
+    <circle
+      cx="16"
+      cy="16"
+      r="13"
+      stroke-dasharray="81.68140899333463"
+      stroke-dashoffset="0"
+      transform="rotate(-90 16 16)"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`Donut overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    aria-valuemax="2"
+    aria-valuemin="1"
+    aria-valuenow="1"
+    class="css-1tx9y9r"
+    fill="none"
+    height="198"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="3"
+    viewBox="0 0 32 32"
+    width="198"
+  >
+    <title>
+      Dayna McGlynn
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="13"
+    />
+    <circle
+      cx="16"
+      cy="16"
+      r="13"
+      stroke-dasharray="81.68140899333463"
+      stroke-dashoffset="81.68140899333463"
+      transform="rotate(-90 16 16)"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`Donut overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    aria-valuemax="2"
+    aria-valuemin="1"
+    aria-valuenow="0"
+    class="css-1tx9y9r"
+    fill="none"
+    height="125"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="1"
+    viewBox="0 0 32 32"
+    width="125"
+  >
+    <title>
+      Moriah Schowalter
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="15"
+    />
+    <circle
+      cx="16"
+      cy="16"
+      r="15"
+      stroke-dasharray="94.24777960769379"
+      stroke-dashoffset="188.49555921538757"
+      transform="rotate(-90 16 16)"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`Donut overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    aria-valuemax="0"
+    aria-valuemin="1"
+    aria-valuenow="0"
+    class="css-1tx9y9r"
+    fill="none"
+    height="233"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="3"
+    viewBox="0 0 32 32"
+    width="233"
+  >
+    <title>
+      Destini Hegmann
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="13"
+    />
+    <circle
+      cx="16"
+      cy="16"
+      r="13"
+      stroke-dasharray="81.68140899333463"
+      stroke-dashoffset="0"
+      transform="rotate(-90 16 16)"
+    />
+  </svg>
+</DocumentFragment>
+`;

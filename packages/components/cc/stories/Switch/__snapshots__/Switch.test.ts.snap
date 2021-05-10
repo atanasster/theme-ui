@@ -1,0 +1,122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-1y6xj52"
+  >
+    <input
+      aria-label="Letitia Schultz"
+      checked=""
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <div
+      class="css-18hnwoo"
+    >
+      <div
+        class="css-vurnku"
+      />
+    </div>
+    <span>
+      Letitia Schultz
+    </span>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Switch overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-1y6xj52"
+  >
+    <input
+      aria-label="Jaron MacGyver"
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <div
+      class="css-18hnwoo"
+    >
+      <div
+        class="css-vurnku"
+      />
+    </div>
+    <span>
+      Jaron MacGyver
+    </span>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Switch overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-1y6xj52"
+  >
+    <input
+      aria-label="Skye Schmidt"
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <div
+      class="css-18hnwoo"
+    >
+      <div
+        class="css-vurnku"
+      />
+    </div>
+    <span>
+      Skye Schmidt
+    </span>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Switch overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-1y6xj52"
+  >
+    <input
+      aria-label="Mekhi Doyle"
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <div
+      class="css-18hnwoo"
+    >
+      <div
+        class="css-vurnku"
+      />
+    </div>
+    <span>
+      Mekhi Doyle
+    </span>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Switch overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-1y6xj52"
+  >
+    <input
+      aria-label="Adrain Stiedemann DVM"
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <div
+      class="css-18hnwoo"
+    >
+      <div
+        class="css-vurnku"
+      />
+    </div>
+    <span>
+      Adrain Stiedemann DVM
+    </span>
+  </label>
+</DocumentFragment>
+`;

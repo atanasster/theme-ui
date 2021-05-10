@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Select overview snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-4cffwv"
+  >
+    <select
+      class="css-iyqgnx"
+    >
+      <option
+        selected=""
+      >
+        Hello
+      </option>
+      <option>
+        Hi
+      </option>
+      <option>
+        Beep
+      </option>
+      <option>
+        Boop
+      </option>
+    </select>
+    <svg
+      class="css-1swud1q"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;

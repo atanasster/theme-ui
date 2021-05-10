@@ -1,0 +1,436 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid columns 0 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1ta2zrd"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid columns 1 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-wwwgys"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid columns 2 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-pux8f5"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid columns 3 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1r1d100"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid columns 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1y3lzcl"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid fractions 0 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1q231hp"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid fractions 1 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-vte943"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid fractions 2 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-thsy86"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid fractions 3 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1a5bhoy"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid fractions 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-fswxna"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid width 0 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-j4mu4j"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid width 1 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1f64cr6"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid width 2 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1ggj2jb"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid width 3 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x71xme"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid width 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1wg7ao4"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;

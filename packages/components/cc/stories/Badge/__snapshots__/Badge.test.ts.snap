@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-vurnku"
+    style="height: 100%;"
+  >
+    <div
+      class="css-1y3z5mn"
+    >
+      badge
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Badge overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-vurnku"
+    style="height: 100%;"
+  >
+    <div
+      class="css-161mr5k"
+    >
+      badge
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Badge overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-vurnku"
+    style="height: 100%;"
+  >
+    <div
+      class="css-1qlo8d1"
+    >
+      badge
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Badge overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-vurnku"
+    style="height: 100%;"
+  >
+    <div
+      class="css-gh89c0"
+    >
+      badge
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Badge overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-vurnku"
+    style="height: 100%;"
+  >
+    <div
+      class="css-n3l98u"
+    >
+      badge
+    </div>
+  </div>
+</DocumentFragment>
+`;

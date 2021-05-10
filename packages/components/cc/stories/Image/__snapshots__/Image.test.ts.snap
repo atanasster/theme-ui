@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-9taffg"
+    src="https://picsum.photos/seed/picsum/128/128"
+  />
+</DocumentFragment>
+`;
+
+exports[`Image overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-9taffg"
+    src="https://picsum.photos/seed/picsum/128/128"
+  />
+</DocumentFragment>
+`;
+
+exports[`Image overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-9taffg"
+    src="https://picsum.photos/seed/picsum/128/128"
+  />
+</DocumentFragment>
+`;
+
+exports[`Image overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-9taffg"
+    src="https://picsum.photos/seed/picsum/128/128"
+  />
+</DocumentFragment>
+`;
+
+exports[`Image overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <img
+    class="css-9taffg"
+    src="https://picsum.photos/seed/picsum/128/128"
+  />
+</DocumentFragment>
+`;

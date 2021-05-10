@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="css-ffhn5i"
+  >
+    Hello
+  </span>
+</DocumentFragment>
+`;
+
+exports[`Text overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="css-3hx0ik"
+  >
+    Hello
+  </span>
+</DocumentFragment>
+`;
+
+exports[`Text overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="css-1s9m8o3"
+  >
+    Hello
+  </span>
+</DocumentFragment>
+`;
+
+exports[`Text overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="css-anwsrb"
+  >
+    Hello
+  </span>
+</DocumentFragment>
+`;
+
+exports[`Text overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="css-1s9m8o3"
+  >
+    Hello
+  </span>
+</DocumentFragment>
+`;

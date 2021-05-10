@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x3crln"
+  >
+    <input
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <svg
+      aria-hidden="true"
+      class="css-1lg2i1m"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="css-qveyt5"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Checkbox overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x3crln"
+  >
+    <input
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <svg
+      aria-hidden="true"
+      class="css-1lg2i1m"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="css-qveyt5"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Checkbox overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x3crln"
+  >
+    <input
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <svg
+      aria-hidden="true"
+      class="css-1lg2i1m"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="css-qveyt5"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Checkbox overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x3crln"
+  >
+    <input
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <svg
+      aria-hidden="true"
+      class="css-1lg2i1m"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="css-qveyt5"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Checkbox overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-x3crln"
+  >
+    <input
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <svg
+      aria-hidden="true"
+      class="css-1lg2i1m"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+      />
+    </svg>
+    <svg
+      aria-hidden="true"
+      class="css-qveyt5"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;

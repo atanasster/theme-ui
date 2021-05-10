@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AspectRatio overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1mdiw3u"
+  >
+    <div
+      class="css-i9l3dq"
+    >
+      <div
+        class="css-6jaxb6"
+      />
+      <div
+        class="css-ojfau8"
+      >
+        <h2
+          class="css-1wf7gym"
+        >
+          Aspect Ratio
+        </h2>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`AspectRatio overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1mdiw3u"
+  >
+    <div
+      class="css-i9l3dq"
+    >
+      <div
+        class="css-6jaxb6"
+      />
+      <div
+        class="css-ojfau8"
+      >
+        <h2
+          class="css-1wf7gym"
+        >
+          Aspect Ratio
+        </h2>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`AspectRatio overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1mdiw3u"
+  >
+    <div
+      class="css-i9l3dq"
+    >
+      <div
+        class="css-6jaxb6"
+      />
+      <div
+        class="css-ojfau8"
+      >
+        <h2
+          class="css-1wf7gym"
+        >
+          Aspect Ratio
+        </h2>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`AspectRatio overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1mdiw3u"
+  >
+    <div
+      class="css-i9l3dq"
+    >
+      <div
+        class="css-6jaxb6"
+      />
+      <div
+        class="css-ojfau8"
+      >
+        <h2
+          class="css-1wf7gym"
+        >
+          Aspect Ratio
+        </h2>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`AspectRatio overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1mdiw3u"
+  >
+    <div
+      class="css-i9l3dq"
+    >
+      <div
+        class="css-6jaxb6"
+      />
+      <div
+        class="css-ojfau8"
+      >
+        <h2
+          class="css-1wf7gym"
+        >
+          Aspect Ratio
+        </h2>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

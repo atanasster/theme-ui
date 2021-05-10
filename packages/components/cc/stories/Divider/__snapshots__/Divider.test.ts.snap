@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Divider overview snapshot 1`] = `
+<DocumentFragment>
+  <hr
+    class="css-1bb4y59"
+  />
+</DocumentFragment>
+`;

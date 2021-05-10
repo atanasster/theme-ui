@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuButton overview 0 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Toggle Menu"
+    class="css-hplxoi-IconButton"
+    title="Menu"
+  >
+    <svg
+      class="css-ipc245"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`MenuButton overview 1 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Toggle Menu"
+    class="css-hplxoi-IconButton"
+    title="Menu"
+  >
+    <svg
+      class="css-ipc245"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`MenuButton overview 2 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Toggle Menu"
+    class="css-hplxoi-IconButton"
+    title="Menu"
+  >
+    <svg
+      class="css-ipc245"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`MenuButton overview 3 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Toggle Menu"
+    class="css-hplxoi-IconButton"
+    title="Menu"
+  >
+    <svg
+      class="css-ipc245"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`MenuButton overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    aria-label="Toggle Menu"
+    class="css-hplxoi-IconButton"
+    title="Menu"
+  >
+    <svg
+      class="css-ipc245"
+      fill="currentcolor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;

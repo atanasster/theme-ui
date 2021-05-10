@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Link overview snapshot 1`] = `
+<DocumentFragment>
+  <a
+    class="css-vurnku"
+    href="#!"
+  >
+    theme-ui link
+  </a>
+</DocumentFragment>
+`;
