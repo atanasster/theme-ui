@@ -1,8 +1,5 @@
 export default {
   overview: {
-    '0': {
-      checked: true,
-    },
     '1': {
       checked: true,
     },
@@ -10,10 +7,13 @@ export default {
       checked: true,
     },
     '3': {
-      checked: true,
+      checked: false,
     },
     '4': {
-      checked: false,
+      checked: true,
+    },
+    '5': {
+      checked: true,
     },
   },
 }

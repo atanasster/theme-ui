@@ -1,24 +1,24 @@
 export default {
   overview: {
-    '0': {
-      src: 'https://picsum.photos/seed/picsum/128/128',
-      size: 100,
-    },
     '1': {
       src: 'https://picsum.photos/seed/picsum/128/128',
-      size: 100,
+      size: 180,
     },
     '2': {
       src: 'https://picsum.photos/seed/picsum/128/128',
-      size: 230,
+      size: 160,
     },
     '3': {
       src: 'https://picsum.photos/seed/picsum/128/128',
-      size: 230,
+      size: 90,
     },
     '4': {
       src: 'https://picsum.photos/seed/picsum/128/128',
-      size: 210,
+      size: 160,
+    },
+    '5': {
+      src: 'https://picsum.photos/seed/picsum/128/128',
+      size: 180,
     },
   },
 }

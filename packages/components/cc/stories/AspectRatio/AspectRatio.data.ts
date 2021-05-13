@@ -1,8 +1,5 @@
 export default {
   overview: {
-    '0': {
-      ratio: null,
-    },
     '1': {
       ratio: null,
     },
@@ -13,6 +10,9 @@ export default {
       ratio: null,
     },
     '4': {
+      ratio: null,
+    },
+    '5': {
       ratio: null,
     },
   },

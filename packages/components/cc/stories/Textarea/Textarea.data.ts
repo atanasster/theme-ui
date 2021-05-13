@@ -1,19 +1,19 @@
 export default {
   overview: {
-    '0': {
-      rows: 3,
-    },
     '1': {
-      rows: 5,
+      rows: 6,
     },
     '2': {
-      rows: 3,
+      rows: 5,
     },
     '3': {
-      rows: 8,
+      rows: 3,
     },
     '4': {
-      rows: 8,
+      rows: 5,
+    },
+    '5': {
+      rows: 6,
     },
   },
 }

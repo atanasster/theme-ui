@@ -1,38 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Grid columns 0 snapshot 1`] = `
-<DocumentFragment>
-  <div
-    class="css-1ta2zrd"
-  >
-    <div
-      class="css-p4bl4j"
-    >
-      Box
-    </div>
-    <div
-      class="css-wpnsu2"
-    >
-      Box
-    </div>
-    <div
-      class="css-p4bl4j"
-    >
-      Box
-    </div>
-    <div
-      class="css-wpnsu2"
-    >
-      Box
-    </div>
-  </div>
-</DocumentFragment>
-`;
-
 exports[`Grid columns 1 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-wwwgys"
+    class="css-9agl6c"
   >
     <div
       class="css-p4bl4j"
@@ -61,7 +32,7 @@ exports[`Grid columns 1 snapshot 1`] = `
 exports[`Grid columns 2 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-pux8f5"
+    class="css-1q3ij5q"
   >
     <div
       class="css-p4bl4j"
@@ -90,7 +61,7 @@ exports[`Grid columns 2 snapshot 1`] = `
 exports[`Grid columns 3 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1r1d100"
+    class="css-1219lrp"
   >
     <div
       class="css-p4bl4j"
@@ -119,7 +90,7 @@ exports[`Grid columns 3 snapshot 1`] = `
 exports[`Grid columns 4 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1y3lzcl"
+    class="css-peuquw"
   >
     <div
       class="css-p4bl4j"
@@ -145,10 +116,10 @@ exports[`Grid columns 4 snapshot 1`] = `
 </DocumentFragment>
 `;
 
-exports[`Grid fractions 0 snapshot 1`] = `
+exports[`Grid columns 5 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1q231hp"
+    class="css-1pfdrj6"
   >
     <div
       class="css-p4bl4j"
@@ -177,7 +148,7 @@ exports[`Grid fractions 0 snapshot 1`] = `
 exports[`Grid fractions 1 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-vte943"
+    class="css-9v3h0o"
   >
     <div
       class="css-p4bl4j"
@@ -206,7 +177,7 @@ exports[`Grid fractions 1 snapshot 1`] = `
 exports[`Grid fractions 2 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-thsy86"
+    class="css-1nyx94m"
   >
     <div
       class="css-p4bl4j"
@@ -235,7 +206,7 @@ exports[`Grid fractions 2 snapshot 1`] = `
 exports[`Grid fractions 3 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1a5bhoy"
+    class="css-18uh25f"
   >
     <div
       class="css-p4bl4j"
@@ -264,7 +235,7 @@ exports[`Grid fractions 3 snapshot 1`] = `
 exports[`Grid fractions 4 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-fswxna"
+    class="css-1i6i4hn"
   >
     <div
       class="css-p4bl4j"
@@ -290,10 +261,10 @@ exports[`Grid fractions 4 snapshot 1`] = `
 </DocumentFragment>
 `;
 
-exports[`Grid width 0 snapshot 1`] = `
+exports[`Grid fractions 5 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-j4mu4j"
+    class="css-105i47p"
   >
     <div
       class="css-p4bl4j"
@@ -322,7 +293,7 @@ exports[`Grid width 0 snapshot 1`] = `
 exports[`Grid width 1 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1f64cr6"
+    class="css-1j1t7nk"
   >
     <div
       class="css-p4bl4j"
@@ -351,7 +322,7 @@ exports[`Grid width 1 snapshot 1`] = `
 exports[`Grid width 2 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1ggj2jb"
+    class="css-mxlwtn"
   >
     <div
       class="css-p4bl4j"
@@ -380,7 +351,7 @@ exports[`Grid width 2 snapshot 1`] = `
 exports[`Grid width 3 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-x71xme"
+    class="css-1mqeorb"
   >
     <div
       class="css-p4bl4j"
@@ -409,7 +380,36 @@ exports[`Grid width 3 snapshot 1`] = `
 exports[`Grid width 4 snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="css-1wg7ao4"
+    class="css-t0c2wm"
+  >
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+    <div
+      class="css-p4bl4j"
+    >
+      Box
+    </div>
+    <div
+      class="css-wpnsu2"
+    >
+      Box
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Grid width 5 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-81x8ej"
   >
     <div
       class="css-p4bl4j"

@@ -1,19 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Input overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <input
-    class="css-iyqgnx"
-    value="Cordell Crooks"
-  />
-</DocumentFragment>
-`;
-
 exports[`Input overview 1 snapshot 1`] = `
 <DocumentFragment>
   <input
     class="css-iyqgnx"
-    value="Ms. Malvina Mills"
+    value="Cecelia Langosh"
   />
 </DocumentFragment>
 `;
@@ -22,7 +13,7 @@ exports[`Input overview 2 snapshot 1`] = `
 <DocumentFragment>
   <input
     class="css-iyqgnx"
-    value="Jerad Moen"
+    value="Cassidy Brekke"
   />
 </DocumentFragment>
 `;
@@ -31,7 +22,7 @@ exports[`Input overview 3 snapshot 1`] = `
 <DocumentFragment>
   <input
     class="css-iyqgnx"
-    value="Declan Braun"
+    value="Chance Kessler"
   />
 </DocumentFragment>
 `;
@@ -40,7 +31,16 @@ exports[`Input overview 4 snapshot 1`] = `
 <DocumentFragment>
   <input
     class="css-iyqgnx"
-    value="Nayeli Schaden"
+    value="Cleo Lindgren"
+  />
+</DocumentFragment>
+`;
+
+exports[`Input overview 5 snapshot 1`] = `
+<DocumentFragment>
+  <input
+    class="css-iyqgnx"
+    value="Adeline Welch"
   />
 </DocumentFragment>
 `;

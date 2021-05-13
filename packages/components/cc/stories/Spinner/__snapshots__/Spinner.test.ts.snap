@@ -1,49 +1,16 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Spinner overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <svg
-    class="css-1pf5xd"
-    fill="none"
-    height="83"
-    role="img"
-    stroke="currentcolor"
-    stroke-width="2"
-    viewBox="0 0 32 32"
-    width="83"
-  >
-    <title>
-      Loading...
-    </title>
-    <circle
-      cx="16"
-      cy="16"
-      opacity="0.125"
-      r="14"
-    />
-    <circle
-      class="css-wpcq6n"
-      cx="16"
-      cy="16"
-      r="14"
-      stroke-dasharray="87.96459430051421"
-      stroke-dashoffset="65.97344572538566"
-    />
-  </svg>
-</DocumentFragment>
-`;
-
 exports[`Spinner overview 1 snapshot 1`] = `
 <DocumentFragment>
   <svg
     class="css-1pf5xd"
     fill="none"
-    height="31"
+    height="61"
     role="img"
     stroke="currentcolor"
-    stroke-width="4"
+    stroke-width="6"
     viewBox="0 0 32 32"
-    width="31"
+    width="61"
   >
     <title>
       Loading...
@@ -52,15 +19,15 @@ exports[`Spinner overview 1 snapshot 1`] = `
       cx="16"
       cy="16"
       opacity="0.125"
-      r="12"
+      r="10"
     />
     <circle
       class="css-wpcq6n"
       cx="16"
       cy="16"
-      r="12"
-      stroke-dasharray="75.39822368615503"
-      stroke-dashoffset="56.548667764616276"
+      r="10"
+      stroke-dasharray="62.83185307179586"
+      stroke-dashoffset="47.12388980384689"
     />
   </svg>
 </DocumentFragment>
@@ -71,45 +38,12 @@ exports[`Spinner overview 2 snapshot 1`] = `
   <svg
     class="css-1pf5xd"
     fill="none"
-    height="82"
-    role="img"
-    stroke="currentcolor"
-    stroke-width="5"
-    viewBox="0 0 32 32"
-    width="82"
-  >
-    <title>
-      Loading...
-    </title>
-    <circle
-      cx="16"
-      cy="16"
-      opacity="0.125"
-      r="11"
-    />
-    <circle
-      class="css-wpcq6n"
-      cx="16"
-      cy="16"
-      r="11"
-      stroke-dasharray="69.11503837897544"
-      stroke-dashoffset="51.83627878423158"
-    />
-  </svg>
-</DocumentFragment>
-`;
-
-exports[`Spinner overview 3 snapshot 1`] = `
-<DocumentFragment>
-  <svg
-    class="css-1pf5xd"
-    fill="none"
-    height="68"
+    height="61"
     role="img"
     stroke="currentcolor"
     stroke-width="3"
     viewBox="0 0 32 32"
-    width="68"
+    width="61"
   >
     <title>
       Loading...
@@ -132,17 +66,17 @@ exports[`Spinner overview 3 snapshot 1`] = `
 </DocumentFragment>
 `;
 
-exports[`Spinner overview 4 snapshot 1`] = `
+exports[`Spinner overview 3 snapshot 1`] = `
 <DocumentFragment>
   <svg
     class="css-1pf5xd"
     fill="none"
-    height="36"
+    height="39"
     role="img"
     stroke="currentcolor"
-    stroke-width="8"
+    stroke-width="6"
     viewBox="0 0 32 32"
-    width="36"
+    width="39"
   >
     <title>
       Loading...
@@ -151,15 +85,81 @@ exports[`Spinner overview 4 snapshot 1`] = `
       cx="16"
       cy="16"
       opacity="0.125"
-      r="8"
+      r="10"
     />
     <circle
       class="css-wpcq6n"
       cx="16"
       cy="16"
-      r="8"
-      stroke-dasharray="50.26548245743669"
-      stroke-dashoffset="37.69911184307752"
+      r="10"
+      stroke-dasharray="62.83185307179586"
+      stroke-dashoffset="47.12388980384689"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`Spinner overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    class="css-1pf5xd"
+    fill="none"
+    height="31"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="3"
+    viewBox="0 0 32 32"
+    width="31"
+  >
+    <title>
+      Loading...
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="13"
+    />
+    <circle
+      class="css-wpcq6n"
+      cx="16"
+      cy="16"
+      r="13"
+      stroke-dasharray="81.68140899333463"
+      stroke-dashoffset="61.26105674500097"
+    />
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`Spinner overview 5 snapshot 1`] = `
+<DocumentFragment>
+  <svg
+    class="css-1pf5xd"
+    fill="none"
+    height="27"
+    role="img"
+    stroke="currentcolor"
+    stroke-width="5"
+    viewBox="0 0 32 32"
+    width="27"
+  >
+    <title>
+      Loading...
+    </title>
+    <circle
+      cx="16"
+      cy="16"
+      opacity="0.125"
+      r="11"
+    />
+    <circle
+      class="css-wpcq6n"
+      cx="16"
+      cy="16"
+      r="11"
+      stroke-dasharray="69.11503837897544"
+      stroke-dashoffset="51.83627878423158"
     />
   </svg>
 </DocumentFragment>

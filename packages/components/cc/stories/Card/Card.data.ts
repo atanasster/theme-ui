@@ -1,29 +1,29 @@
 export default {
   overview: {
-    '0': {
-      maxWidth: 486,
-      src: 'https://picsum.photos/seed/picsum/128/128',
-      text: 'Maryjane Legros',
-    },
     '1': {
-      maxWidth: 257,
+      maxWidth: 361,
       src: 'https://picsum.photos/seed/picsum/128/128',
-      text: 'Cydney Wilkinson',
+      text: 'Johnny Oberbrunner',
     },
     '2': {
-      maxWidth: 483,
+      maxWidth: 208,
       src: 'https://picsum.photos/seed/picsum/128/128',
-      text: 'Monte Kub',
+      text: 'Jolie Beahan Sr.',
     },
     '3': {
-      maxWidth: 243,
+      maxWidth: 292,
       src: 'https://picsum.photos/seed/picsum/128/128',
-      text: 'Kraig Hirthe',
+      text: 'Cleo Lindgren',
     },
     '4': {
-      maxWidth: 206,
+      maxWidth: 380,
       src: 'https://picsum.photos/seed/picsum/128/128',
-      text: 'Brandy Schaefer',
+      text: 'Tyler Blanda',
+    },
+    '5': {
+      maxWidth: 445,
+      src: 'https://picsum.photos/seed/picsum/128/128',
+      text: 'Krista Zulauf',
     },
   },
 }

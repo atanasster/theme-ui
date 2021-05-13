@@ -11,7 +11,7 @@ import * as examples from './Radio.stories'
 import data from './Radio.data'
 
 describe('Radio', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

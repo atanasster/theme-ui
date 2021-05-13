@@ -1,18 +1,18 @@
 export default {
   overview: {
-    '0': {
-      variant: 'secondary',
-    },
     '1': {
-      variant: 'primary',
+      variant: 'secondary',
     },
     '2': {
-      variant: 'primary',
-    },
-    '3': {
       variant: 'secondary',
     },
+    '3': {
+      variant: 'primary',
+    },
     '4': {
+      variant: 'secondary',
+    },
+    '5': {
       variant: 'secondary',
     },
   },

@@ -11,7 +11,7 @@ import * as examples from './Flex.stories'
 import data from './Flex.data'
 
 describe('Flex', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

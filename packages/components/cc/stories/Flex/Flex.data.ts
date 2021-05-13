@@ -1,24 +1,24 @@
 export default {
   overview: {
-    '0': {
-      flexDirection: 'row',
-      p: 1,
-    },
     '1': {
-      flexDirection: 'row',
       p: 1,
+      flexDirection: 'row',
     },
     '2': {
-      flexDirection: 'row',
       p: 0,
+      flexDirection: 'row',
     },
     '3': {
-      flexDirection: 'row-reverse',
       p: 1,
+      flexDirection: 'column',
     },
     '4': {
+      p: 0,
       flexDirection: 'column',
+    },
+    '5': {
       p: 1,
+      flexDirection: 'column',
     },
   },
 }

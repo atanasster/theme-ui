@@ -1,93 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Radio overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <label
-    class="css-knfhfe"
-  >
-    <div
-      class="css-x3crln"
-    >
-      <input
-        checked=""
-        class="css-p19g2b"
-        name="dark-mode"
-        type="radio"
-        value="true"
-      />
-      <svg
-        aria-hidden="true"
-        class="css-1wm4085"
-        fill="currentcolor"
-        height="24"
-        viewBox="0 0 24 24"
-        width="24"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
-        />
-      </svg>
-      <svg
-        aria-hidden="true"
-        class="css-19tyid"
-        fill="currentcolor"
-        height="24"
-        viewBox="0 0 24 24"
-        width="24"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
-        />
-      </svg>
-    </div>
-    Dark Mode
-  </label>
-  <label
-    class="css-knfhfe"
-  >
-    <div
-      class="css-x3crln"
-    >
-      <input
-        class="css-p19g2b"
-        name="dark-mode"
-        type="radio"
-        value="false"
-      />
-      <svg
-        aria-hidden="true"
-        class="css-1wm4085"
-        fill="currentcolor"
-        height="24"
-        viewBox="0 0 24 24"
-        width="24"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
-        />
-      </svg>
-      <svg
-        aria-hidden="true"
-        class="css-19tyid"
-        fill="currentcolor"
-        height="24"
-        viewBox="0 0 24 24"
-        width="24"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
-        />
-      </svg>
-    </div>
-    Light Mode
-  </label>
-</DocumentFragment>
-`;
-
 exports[`Radio overview 1 snapshot 1`] = `
 <DocumentFragment>
   <label
@@ -273,6 +185,94 @@ exports[`Radio overview 3 snapshot 1`] = `
       class="css-x3crln"
     >
       <input
+        class="css-p19g2b"
+        name="dark-mode"
+        type="radio"
+        value="false"
+      />
+      <svg
+        aria-hidden="true"
+        class="css-1wm4085"
+        fill="currentcolor"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="css-19tyid"
+        fill="currentcolor"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+        />
+      </svg>
+    </div>
+    Dark Mode
+  </label>
+  <label
+    class="css-knfhfe"
+  >
+    <div
+      class="css-x3crln"
+    >
+      <input
+        checked=""
+        class="css-p19g2b"
+        name="dark-mode"
+        type="radio"
+        value="true"
+      />
+      <svg
+        aria-hidden="true"
+        class="css-1wm4085"
+        fill="currentcolor"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="css-19tyid"
+        fill="currentcolor"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+        />
+      </svg>
+    </div>
+    Light Mode
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Radio overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-knfhfe"
+  >
+    <div
+      class="css-x3crln"
+    >
+      <input
         checked=""
         class="css-p19g2b"
         name="dark-mode"
@@ -352,7 +352,7 @@ exports[`Radio overview 3 snapshot 1`] = `
 </DocumentFragment>
 `;
 
-exports[`Radio overview 4 snapshot 1`] = `
+exports[`Radio overview 5 snapshot 1`] = `
 <DocumentFragment>
   <label
     class="css-knfhfe"
@@ -361,10 +361,11 @@ exports[`Radio overview 4 snapshot 1`] = `
       class="css-x3crln"
     >
       <input
+        checked=""
         class="css-p19g2b"
         name="dark-mode"
         type="radio"
-        value="false"
+        value="true"
       />
       <svg
         aria-hidden="true"
@@ -402,11 +403,10 @@ exports[`Radio overview 4 snapshot 1`] = `
       class="css-x3crln"
     >
       <input
-        checked=""
         class="css-p19g2b"
         name="dark-mode"
         type="radio"
-        value="true"
+        value="false"
       />
       <svg
         aria-hidden="true"

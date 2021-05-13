@@ -1,24 +1,24 @@
 export default {
   overview: {
-    '0': {
-      size: 83,
-      strokeWidth: 2,
-    },
     '1': {
-      size: 31,
-      strokeWidth: 4,
+      strokeWidth: 6,
+      size: 61,
     },
     '2': {
-      size: 82,
-      strokeWidth: 5,
+      strokeWidth: 3,
+      size: 61,
     },
     '3': {
-      size: 68,
-      strokeWidth: 3,
+      strokeWidth: 6,
+      size: 39,
     },
     '4': {
-      size: 36,
-      strokeWidth: 8,
+      strokeWidth: 3,
+      size: 31,
+    },
+    '5': {
+      strokeWidth: 5,
+      size: 27,
     },
   },
 }

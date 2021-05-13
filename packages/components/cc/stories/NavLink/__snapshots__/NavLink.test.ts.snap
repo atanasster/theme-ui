@@ -1,51 +1,24 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`NavLink overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <div
-    class="css-4cffwv"
-  >
-    <a
-      class="css-10mlc18"
-      href="#!"
-    >
-      Home
-    </a>
-    <a
-      class="css-10mlc18"
-      href="#!"
-    >
-      Blog
-    </a>
-    <a
-      class="css-10mlc18"
-      href="#!"
-    >
-      About
-    </a>
-  </div>
-</DocumentFragment>
-`;
-
 exports[`NavLink overview 1 snapshot 1`] = `
 <DocumentFragment>
   <div
     class="css-4cffwv"
   >
     <a
-      class="css-ak58lc"
+      class="css-10mlc18"
       href="#!"
     >
       Home
     </a>
     <a
-      class="css-ak58lc"
+      class="css-10mlc18"
       href="#!"
     >
       Blog
     </a>
     <a
-      class="css-ak58lc"
+      class="css-10mlc18"
       href="#!"
     >
       About
@@ -87,19 +60,19 @@ exports[`NavLink overview 3 snapshot 1`] = `
     class="css-4cffwv"
   >
     <a
-      class="css-ak58lc"
+      class="css-1y6zkkl"
       href="#!"
     >
       Home
     </a>
     <a
-      class="css-ak58lc"
+      class="css-1y6zkkl"
       href="#!"
     >
       Blog
     </a>
     <a
-      class="css-ak58lc"
+      class="css-1y6zkkl"
       href="#!"
     >
       About
@@ -109,6 +82,33 @@ exports[`NavLink overview 3 snapshot 1`] = `
 `;
 
 exports[`NavLink overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="css-4cffwv"
+  >
+    <a
+      class="css-10mlc18"
+      href="#!"
+    >
+      Home
+    </a>
+    <a
+      class="css-10mlc18"
+      href="#!"
+    >
+      Blog
+    </a>
+    <a
+      class="css-10mlc18"
+      href="#!"
+    >
+      About
+    </a>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`NavLink overview 5 snapshot 1`] = `
 <DocumentFragment>
   <div
     class="css-4cffwv"

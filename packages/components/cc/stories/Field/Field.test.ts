@@ -11,7 +11,7 @@ import * as examples from './Field.stories'
 import data from './Field.data'
 
 describe('Field', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

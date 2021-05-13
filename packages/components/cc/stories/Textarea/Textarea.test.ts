@@ -11,7 +11,7 @@ import * as examples from './Textarea.stories'
 import data from './Textarea.data'
 
 describe('Textarea', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

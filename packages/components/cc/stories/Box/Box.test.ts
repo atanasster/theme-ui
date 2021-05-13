@@ -11,7 +11,7 @@ import * as examples from './Box.stories'
 import data from './Box.data'
 
 describe('Box', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

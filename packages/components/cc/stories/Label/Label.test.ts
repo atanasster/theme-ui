@@ -10,7 +10,7 @@ import { renderErr } from '@component-controls/test-renderers'
 import * as examples from './Label.stories'
 
 describe('Label', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

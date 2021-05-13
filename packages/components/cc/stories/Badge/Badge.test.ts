@@ -11,7 +11,7 @@ import * as examples from './Badge.stories'
 import data from './Badge.data'
 
 describe('Badge', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

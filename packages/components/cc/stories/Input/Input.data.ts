@@ -1,19 +1,19 @@
 export default {
   overview: {
-    '0': {
-      defaultValue: 'Cordell Crooks',
-    },
     '1': {
-      defaultValue: 'Ms. Malvina Mills',
+      defaultValue: 'Cecelia Langosh',
     },
     '2': {
-      defaultValue: 'Jerad Moen',
+      defaultValue: 'Cassidy Brekke',
     },
     '3': {
-      defaultValue: 'Declan Braun',
+      defaultValue: 'Chance Kessler',
     },
     '4': {
-      defaultValue: 'Nayeli Schaden',
+      defaultValue: 'Cleo Lindgren',
+    },
+    '5': {
+      defaultValue: 'Adeline Welch',
     },
   },
 }

@@ -1,0 +1,263 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form overview snapshot 1`] = `
+<DocumentFragment>
+  <form
+    class="css-vurnku"
+  >
+    <label
+      class="css-knfhfe"
+      for="username"
+    >
+      Username
+    </label>
+    <input
+      class="css-12kggy7"
+      id="username"
+      name="username"
+    />
+    <label
+      class="css-knfhfe"
+      for="password"
+    >
+      Password
+    </label>
+    <input
+      class="css-12kggy7"
+      id="password"
+      name="password"
+      type="password"
+    />
+    <div
+      class="css-vurnku"
+    >
+      <label
+        class="css-16m7hzo"
+      >
+        <div
+          class="css-x3crln"
+        >
+          <input
+            class="css-p19g2b"
+            type="checkbox"
+          />
+          <svg
+            aria-hidden="true"
+            class="css-1lg2i1m"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="css-qveyt5"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+            />
+          </svg>
+        </div>
+        Remember me
+      </label>
+    </div>
+    <label
+      class="css-knfhfe"
+      for="sound"
+    >
+      Sound
+    </label>
+    <div
+      class="css-4cffwv"
+    >
+      <select
+        class="css-12kggy7"
+        id="sound"
+        name="sound"
+      >
+        <option>
+          Beep
+        </option>
+        <option>
+          Boop
+        </option>
+        <option>
+          Blip
+        </option>
+      </select>
+      <svg
+        class="css-1swud1q"
+        fill="currentcolor"
+        height="24"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </div>
+    <label
+      class="css-knfhfe"
+      for="comment"
+    >
+      Comment
+    </label>
+    <textarea
+      class="css-12kggy7"
+      id="comment"
+      name="comment"
+      rows="6"
+    />
+    <div
+      class="css-117j3zt"
+    >
+      <label
+        class="css-knfhfe"
+      >
+        <div
+          class="css-x3crln"
+        >
+          <input
+            class="css-p19g2b"
+            name="letter"
+            type="radio"
+          />
+          <svg
+            aria-hidden="true"
+            class="css-1wm4085"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="css-19tyid"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+        </div>
+         Alpha
+      </label>
+      <label
+        class="css-knfhfe"
+      >
+        <div
+          class="css-x3crln"
+        >
+          <input
+            class="css-p19g2b"
+            name="letter"
+            type="radio"
+          />
+          <svg
+            aria-hidden="true"
+            class="css-1wm4085"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="css-19tyid"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+        </div>
+         Bravo
+      </label>
+      <label
+        class="css-knfhfe"
+      >
+        <div
+          class="css-x3crln"
+        >
+          <input
+            class="css-p19g2b"
+            name="letter"
+            type="radio"
+          />
+          <svg
+            aria-hidden="true"
+            class="css-1wm4085"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zm0-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+          <svg
+            aria-hidden="true"
+            class="css-19tyid"
+            fill="currentcolor"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+            />
+          </svg>
+        </div>
+         Charlie
+      </label>
+    </div>
+    <label
+      class="css-knfhfe"
+    >
+      Slider
+    </label>
+    <input
+      class="css-13tiu7h"
+      type="range"
+    />
+    <button
+      class="css-vhv7r1"
+    >
+      Submit
+    </button>
+  </form>
+</DocumentFragment>
+`;

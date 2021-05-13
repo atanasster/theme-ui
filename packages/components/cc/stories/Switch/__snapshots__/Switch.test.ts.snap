@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Switch overview 0 snapshot 1`] = `
+exports[`Switch overview 1 snapshot 1`] = `
 <DocumentFragment>
   <label
     class="css-1y6xj52"
   >
     <input
-      aria-label="Letitia Schultz"
+      aria-label="Cecelia Langosh"
       checked=""
       class="css-p19g2b"
       type="checkbox"
@@ -19,31 +19,7 @@ exports[`Switch overview 0 snapshot 1`] = `
       />
     </div>
     <span>
-      Letitia Schultz
-    </span>
-  </label>
-</DocumentFragment>
-`;
-
-exports[`Switch overview 1 snapshot 1`] = `
-<DocumentFragment>
-  <label
-    class="css-1y6xj52"
-  >
-    <input
-      aria-label="Jaron MacGyver"
-      class="css-p19g2b"
-      type="checkbox"
-    />
-    <div
-      class="css-18hnwoo"
-    >
-      <div
-        class="css-vurnku"
-      />
-    </div>
-    <span>
-      Jaron MacGyver
+      Cecelia Langosh
     </span>
   </label>
 </DocumentFragment>
@@ -55,7 +31,7 @@ exports[`Switch overview 2 snapshot 1`] = `
     class="css-1y6xj52"
   >
     <input
-      aria-label="Skye Schmidt"
+      aria-label="Bernadette Langosh Jr."
       class="css-p19g2b"
       type="checkbox"
     />
@@ -67,7 +43,7 @@ exports[`Switch overview 2 snapshot 1`] = `
       />
     </div>
     <span>
-      Skye Schmidt
+      Bernadette Langosh Jr.
     </span>
   </label>
 </DocumentFragment>
@@ -79,7 +55,8 @@ exports[`Switch overview 3 snapshot 1`] = `
     class="css-1y6xj52"
   >
     <input
-      aria-label="Mekhi Doyle"
+      aria-label="Effie Dietrich"
+      checked=""
       class="css-p19g2b"
       type="checkbox"
     />
@@ -91,7 +68,7 @@ exports[`Switch overview 3 snapshot 1`] = `
       />
     </div>
     <span>
-      Mekhi Doyle
+      Effie Dietrich
     </span>
   </label>
 </DocumentFragment>
@@ -103,7 +80,7 @@ exports[`Switch overview 4 snapshot 1`] = `
     class="css-1y6xj52"
   >
     <input
-      aria-label="Adrain Stiedemann DVM"
+      aria-label="Adeline Welch"
       class="css-p19g2b"
       type="checkbox"
     />
@@ -115,7 +92,32 @@ exports[`Switch overview 4 snapshot 1`] = `
       />
     </div>
     <span>
-      Adrain Stiedemann DVM
+      Adeline Welch
+    </span>
+  </label>
+</DocumentFragment>
+`;
+
+exports[`Switch overview 5 snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="css-1y6xj52"
+  >
+    <input
+      aria-label="Lela McClure"
+      checked=""
+      class="css-p19g2b"
+      type="checkbox"
+    />
+    <div
+      class="css-18hnwoo"
+    >
+      <div
+        class="css-vurnku"
+      />
+    </div>
+    <span>
+      Lela McClure
     </span>
   </label>
 </DocumentFragment>

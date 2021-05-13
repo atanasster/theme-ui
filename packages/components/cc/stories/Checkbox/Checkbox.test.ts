@@ -11,7 +11,7 @@ import * as examples from './Checkbox.stories'
 import data from './Checkbox.data'
 
 describe('Checkbox', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

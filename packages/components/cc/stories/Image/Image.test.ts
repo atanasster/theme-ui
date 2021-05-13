@@ -11,7 +11,7 @@ import * as examples from './Image.stories'
 import data from './Image.data'
 
 describe('Image', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

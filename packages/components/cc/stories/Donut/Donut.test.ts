@@ -11,7 +11,7 @@ import * as examples from './Donut.stories'
 import data from './Donut.data'
 
 describe('Donut', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

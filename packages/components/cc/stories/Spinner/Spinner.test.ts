@@ -11,7 +11,7 @@ import * as examples from './Spinner.stories'
 import data from './Spinner.data'
 
 describe('Spinner', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

@@ -11,7 +11,7 @@ import * as examples from './Grid.stories'
 import data from './Grid.data'
 
 describe('Grid', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

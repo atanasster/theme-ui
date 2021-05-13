@@ -1,83 +1,83 @@
 export default {
   width: {
-    '0': {
-      width1: 104,
-      width3: 248,
-    },
     '1': {
-      width1: 144,
-      width3: 382,
+      width1: 184,
+      width3: 245,
     },
     '2': {
-      width1: 215,
-      width3: 173,
+      width1: 96,
+      width3: 243,
     },
     '3': {
-      width1: 159,
-      width3: 291,
+      width1: 188,
+      width3: 159,
     },
     '4': {
-      width1: 140,
-      width3: 137,
+      width1: 96,
+      width3: 127,
+    },
+    '5': {
+      width1: 162,
+      width3: 109,
     },
   },
   columns: {
-    '0': {
-      gap: 4,
-      col1: 1,
-      col3: 3,
-    },
     '1': {
-      gap: 2,
-      col1: 4,
-      col3: 6,
+      gap: 1,
+      col1: 2,
+      col3: 7,
     },
     '2': {
-      gap: 4,
-      col1: 2,
-      col3: 6,
+      gap: 2,
+      col1: 1,
+      col3: 5,
     },
     '3': {
-      gap: 2,
-      col1: 2,
-      col3: 8,
+      gap: 3,
+      col1: 4,
+      col3: 2,
     },
     '4': {
-      gap: 2,
-      col1: 2,
-      col3: 2,
+      gap: 4,
+      col1: 1,
+      col3: 7,
+    },
+    '5': {
+      gap: 4,
+      col1: 3,
+      col3: 6,
     },
   },
   fractions: {
-    '0': {
-      gap: 1,
-      col1: 4,
-      fr1: 0,
-      fr2: 2,
-    },
     '1': {
-      gap: 2,
-      col1: 1,
-      fr1: 2,
-      fr2: 4,
-    },
-    '2': {
       gap: 4,
-      col1: 1,
+      col1: 3,
       fr1: 1,
       fr2: 4,
     },
-    '3': {
+    '2': {
       gap: 1,
-      col1: 3,
+      col1: 4,
+      fr1: 0,
+      fr2: 4,
+    },
+    '3': {
+      gap: 2,
+      col1: 1,
       fr1: 1,
       fr2: 2,
     },
     '4': {
-      gap: 4,
-      col1: 2,
-      fr1: 2,
+      gap: 3,
+      col1: 4,
+      fr1: 1,
       fr2: 1,
+    },
+    '5': {
+      gap: 1,
+      col1: 3,
+      fr1: 1,
+      fr2: 4,
     },
   },
 }

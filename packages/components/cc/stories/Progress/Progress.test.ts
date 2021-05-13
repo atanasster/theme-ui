@@ -11,7 +11,7 @@ import * as examples from './Progress.stories'
 import data from './Progress.data'
 
 describe('Progress', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

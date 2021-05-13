@@ -1,21 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Progress overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <progress
-    class="css-eqwi6i"
-    max="100"
-    value="96"
-  />
-</DocumentFragment>
-`;
-
 exports[`Progress overview 1 snapshot 1`] = `
 <DocumentFragment>
   <progress
     class="css-eqwi6i"
     max="100"
-    value="32"
+    value="72"
   />
 </DocumentFragment>
 `;
@@ -25,7 +15,7 @@ exports[`Progress overview 2 snapshot 1`] = `
   <progress
     class="css-eqwi6i"
     max="100"
-    value="70"
+    value="64"
   />
 </DocumentFragment>
 `;
@@ -35,7 +25,7 @@ exports[`Progress overview 3 snapshot 1`] = `
   <progress
     class="css-eqwi6i"
     max="100"
-    value="52"
+    value="37"
   />
 </DocumentFragment>
 `;
@@ -45,7 +35,17 @@ exports[`Progress overview 4 snapshot 1`] = `
   <progress
     class="css-eqwi6i"
     max="100"
-    value="51"
+    value="63"
+  />
+</DocumentFragment>
+`;
+
+exports[`Progress overview 5 snapshot 1`] = `
+<DocumentFragment>
+  <progress
+    class="css-eqwi6i"
+    max="100"
+    value="74"
   />
 </DocumentFragment>
 `;

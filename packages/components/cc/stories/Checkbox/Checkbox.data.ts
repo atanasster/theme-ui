@@ -1,19 +1,19 @@
 export default {
   overview: {
-    '0': {
-      checked: false,
-    },
     '1': {
-      checked: false,
+      checked: true,
     },
     '2': {
-      checked: false,
+      checked: true,
     },
     '3': {
       checked: false,
     },
     '4': {
-      checked: false,
+      checked: true,
+    },
+    '5': {
+      checked: true,
     },
   },
 }

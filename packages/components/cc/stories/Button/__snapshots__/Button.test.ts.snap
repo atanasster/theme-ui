@@ -1,15 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Button overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <button
-    class="css-vhv7r1"
-  >
-    click me
-  </button>
-</DocumentFragment>
-`;
-
 exports[`Button overview 1 snapshot 1`] = `
 <DocumentFragment>
   <button
@@ -41,6 +31,16 @@ exports[`Button overview 3 snapshot 1`] = `
 `;
 
 exports[`Button overview 4 snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="css-vhv7r1"
+  >
+    click me
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button overview 5 snapshot 1`] = `
 <DocumentFragment>
   <button
     class="css-vhv7r1"

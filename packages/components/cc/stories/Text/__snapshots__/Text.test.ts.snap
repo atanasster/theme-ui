@@ -1,19 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Text overview 0 snapshot 1`] = `
-<DocumentFragment>
-  <span
-    class="css-ffhn5i"
-  >
-    Hello
-  </span>
-</DocumentFragment>
-`;
-
 exports[`Text overview 1 snapshot 1`] = `
 <DocumentFragment>
   <span
-    class="css-3hx0ik"
+    class="css-1s9m8o3"
   >
     Hello
   </span>
@@ -23,7 +13,7 @@ exports[`Text overview 1 snapshot 1`] = `
 exports[`Text overview 2 snapshot 1`] = `
 <DocumentFragment>
   <span
-    class="css-1s9m8o3"
+    class="css-wm9hmn"
   >
     Hello
   </span>
@@ -33,7 +23,7 @@ exports[`Text overview 2 snapshot 1`] = `
 exports[`Text overview 3 snapshot 1`] = `
 <DocumentFragment>
   <span
-    class="css-anwsrb"
+    class="css-yyr9h2"
   >
     Hello
   </span>
@@ -43,7 +33,17 @@ exports[`Text overview 3 snapshot 1`] = `
 exports[`Text overview 4 snapshot 1`] = `
 <DocumentFragment>
   <span
-    class="css-1s9m8o3"
+    class="css-fm3b53"
+  >
+    Hello
+  </span>
+</DocumentFragment>
+`;
+
+exports[`Text overview 5 snapshot 1`] = `
+<DocumentFragment>
+  <span
+    class="css-anwsrb"
   >
     Hello
   </span>

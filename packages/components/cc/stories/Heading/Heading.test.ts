@@ -11,7 +11,7 @@ import * as examples from './Heading.stories'
 import data from './Heading.data'
 
 describe('Heading', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

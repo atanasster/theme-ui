@@ -1,24 +1,24 @@
 export default {
   overview: {
-    '0': {
-      label: 'Letitia Schultz',
+    '1': {
+      label: 'Cecelia Langosh',
       checked: true,
     },
-    '1': {
-      label: 'Jaron MacGyver',
-      checked: false,
-    },
     '2': {
-      label: 'Skye Schmidt',
+      label: 'Bernadette Langosh Jr.',
       checked: false,
     },
     '3': {
-      label: 'Mekhi Doyle',
-      checked: false,
+      label: 'Effie Dietrich',
+      checked: true,
     },
     '4': {
-      label: 'Adrain Stiedemann DVM',
+      label: 'Adeline Welch',
       checked: false,
+    },
+    '5': {
+      label: 'Lela McClure',
+      checked: true,
     },
   },
 }

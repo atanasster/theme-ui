@@ -1,19 +1,19 @@
 export default {
   overview: {
-    '0': {
-      defaultValue: 38,
-    },
     '1': {
-      defaultValue: 22,
+      defaultValue: 36,
     },
     '2': {
-      defaultValue: 13,
+      defaultValue: 32,
     },
     '3': {
-      defaultValue: 38,
+      defaultValue: 19,
     },
     '4': {
-      defaultValue: 38,
+      defaultValue: 32,
+    },
+    '5': {
+      defaultValue: 37,
     },
   },
 }

@@ -11,7 +11,7 @@ import * as examples from './AspectRatio.stories'
 import data from './AspectRatio.data'
 
 describe('AspectRatio', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {

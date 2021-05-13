@@ -11,7 +11,7 @@ import * as examples from './NavLink.stories'
 import data from './NavLink.data'
 
 describe('NavLink', () => {
-  const configPath = path.resolve(__dirname, '../../../.config')
+  const configPath = path.resolve(__dirname, '../../.config')
   const config = loadConfigurations(configPath)
   let renderedExamples: ReturnType<typeof renderDocument> = []
   act(() => {
